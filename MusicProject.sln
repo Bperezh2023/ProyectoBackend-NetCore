@@ -17,22 +17,22 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicStore.Services", "Musi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 .Entidades", "00 .Entidades", "{A6B457AE-B9B4-4F67-8F5F-747A881EA8DD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Acceso a Datos", "01. Acceso a Datos", "{E1EF9CC4-E623-4F1D-9344-86444170EE4B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Acceso a Datos", "Acceso a Datos", "{E1EF9CC4-E623-4F1D-9344-86444170EE4B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Logica de Negocio", "02. Logica de Negocio", "{857AD6F4-1F6F-4782-AB95-7D6D6B23E617}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logica de Negocio", "Logica de Negocio", "{857AD6F4-1F6F-4782-AB95-7D6D6B23E617}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. API REST", "03. API REST", "{0D957C42-CFA9-4044-B334-F1B5D61CA5E0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API REST", "API REST", "{0D957C42-CFA9-4044-B334-F1B5D61CA5E0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Miscelaneo", "Miscelaneo", "{25CB5B4F-01B0-48BC-B2A8-91AAE2A52FD6}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Health Checks", "04. Health Checks", "{B82F1285-2266-4EB2-AB14-75DB9400D082}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Health Checks", "Health Checks", "{B82F1285-2266-4EB2-AB14-75DB9400D082}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStore.HealthCheckApi", "MusicStore.HealthCheckApi\MusicStore.HealthCheckApi.csproj", "{4C1D96DF-CD37-43A2-8393-5FDAEDAD0B08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicStore.HealthCheckApi", "MusicStore.HealthCheckApi\MusicStore.HealthCheckApi.csproj", "{4C1D96DF-CD37-43A2-8393-5FDAEDAD0B08}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. HTML", "05. HTML", "{B0F8BBAE-1872-4105-AC55-037A7F5BD63F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{B0F8BBAE-1872-4105-AC55-037A7F5BD63F}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
 	EndProjectSection
